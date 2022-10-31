@@ -4,16 +4,16 @@ body {
     color: #333;
     font-family: Lato, sans-serif;
 }
-.header-main-page-element {
+.header-element {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
-.header-main-page-element img {
+.header-element img {
     width: 100%;
 }
-.header-main-page-element .more_inf {
+.header-element .more_inf {
     font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@ body {
 .header-main-page-element { text-align: center;
 }
 }
-.centered-main-page-element {
+.centered-element {
     display: block;
     width: 500px;
     margin: 0 auto 0;
